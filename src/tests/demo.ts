@@ -12,7 +12,7 @@ interface TransactionPayload {
 }
 
 const payload: TransactionPayload = {
-  ItemCode: "RI0040",
+  ItemCode: "AB0040",
   cantidad: 20,
   costo: 1500,
   operadoPor: "user_sap",
